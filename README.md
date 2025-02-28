@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Soma
 - 👀 I’m interested in ... Gaming and coding
-- 🌱 I’m currently learning ... django
 - 📫 How to reach me ... soma.sv99@gmail.com
 
 <!---
